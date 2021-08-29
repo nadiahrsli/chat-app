@@ -2,7 +2,6 @@
   "name": "our-react-chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
   "scripts": {
     "build": "parcel build src/index.html",
     "start": "parcel src/index.html",
